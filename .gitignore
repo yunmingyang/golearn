@@ -1,0 +1,14 @@
+# Configuration directory of IDE and editor
+.vscode
+.idea
+
+# JS
+node_modules/
+package-lock.json
+base
+
+# Java
+*.class
+
+# Python
+*.pyc
